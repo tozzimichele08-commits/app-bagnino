@@ -1,0 +1,6 @@
+{
+  "name": "Lido San Menaio Sync",
+  "description": "Task manager in tempo reale per bagnini e titolari di stabilimenti balneari.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
